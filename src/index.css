@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.whatsapp-chat-bg {
+  background-color: #e5ddd5;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyBAMAAADsEZWCAAAAG1BMVEVHcEzx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fF2F1qrAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAPElEQVQ4jWNgGAWjgP6AEUp3vDBgYHBggLLxqYMBZIMDQyBWdYwODAxggMtYB4YQBihgZHBgCGYYBYMZAACdoRgBqy7rswAAAABJRU5ErkJggg==");
+  background-repeat: repeat;
+  background-size: 100px;
+}
