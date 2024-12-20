@@ -41,7 +41,7 @@ export function TemplateList() {
               Approved: {templateStats.approved} • Rejected: {templateStats.rejected}
             </p>
           </div>
-          <Button onClick={() => navigate('/templates/create')}>
+          <Button className='border-gray-900 border rounded-xl' onClick={() => navigate('/templates/create')}>
             Create Template
           </Button>
         </div>

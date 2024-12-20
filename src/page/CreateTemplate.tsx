@@ -263,8 +263,8 @@ export function CreateTemplate() {
                                 </div>
                             </div>
 
-                            <div className="flex gap-4 pt-4">
-                                <Button type="submit">Submit for Approval</Button>
+                            <div  className="flex gap-4 pt-4">
+                                <Button className='border-gray-900 border' type="submit">Submit for Approval</Button>
                                 <Button
                                     type="button"
                                     variant="outline"
